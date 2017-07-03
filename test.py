@@ -1,2 +1,2 @@
-for i in range(0,10):
+for i in range(0,30):
     print str(i)+'bob'
